@@ -25,6 +25,7 @@ Approach
 RestAPI endpoints:
 ================================
 Rest API end point to calculate the Monthly Rewards: http://localhost:8080/assignment/rewardprogram/monthlyRewards
+
 Rest API end point to calculate the Total Rewards: http://localhost:8080/assignment/rewardprogram/totalRewards
 
 Sample Test Data used:
